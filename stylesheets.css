@@ -1,12 +1,24 @@
-h1 {color:darkred; font-variant:small-caps; 
-    text-align: center}
-h2 {color:blue; font-variant:small-caps; font-style: 
-        initial; text-align: center; 
-    text-shadow: 1px 1px black, 1px 1px #444; 
-    text-decoration: aqua}
-h3 {color:black; font-variant:small-caps; 
-    text-align: left; font-size:x-large; 
-    text-shadow: 1px 1px aqua, -1px -1px #444;}
+h1 {
+	color:darkred; 
+	font-variant:small-caps; 
+    	text-align: center
+	}
+
+h2 {
+	color:blue;
+	font-variant:small-caps; 
+	font-style:initial; 
+	text-align: center; 
+       	text-decoration: aqua
+	}
+
+h3 {color:black;
+	font-variant:small-caps; 
+    	text-align: left;
+ 	font-size:x-large; 
+    	text-shadow: 1px 1px aqua, -1px -1px #444;
+	}
+
 ul{list-style-type: circle; list-style-image:url('img/bullet.PNG')}
 header #search {
 	height: 20px;
@@ -22,10 +34,6 @@ header #search {
 	margin: 0px;
 	padding: 0px;
 }
-
-
-
-
 
 
 
