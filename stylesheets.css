@@ -1,0 +1,152 @@
+h1 {color:darkred; font-variant:small-caps; 
+    text-align: center}
+h2 {color:blue; font-variant:small-caps; font-style: 
+        initial; text-align: center; 
+    text-shadow: 1px 1px black, 1px 1px #444; 
+    text-decoration: aqua}
+h3 {color:black; font-variant:small-caps; 
+    text-align: left; font-size:x-large; 
+    text-shadow: 1px 1px aqua, -1px -1px #444;}
+ul{list-style-type: circle; list-style-image:url('img/bullet.PNG')}
+header #search {
+	height: 20px;
+	width: 900px;
+	padding: 0px;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#search #searchmenu {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+
+
+
+
+footer{
+	font-size: smaller;
+	font-style: italic;
+	color: darkred;
+	font-weight: bold;
+	  }
+	  
+#copyright{color:darkblue; font-size: medium}
+h2{color:rgba (30,30,40,0.4)}
+aside {
+	float: left;
+	width: 250px;
+}
+#title {padding: 20px; text-align: center} 
+
+#aside {margin-top: 20px; margin-right: 40px}
+#certificate{padding: 20px; alignment-adjust: central; margin-top: 20px; margin-left: 20px}
+#text {
+	text-align: center;
+}
+h3 {margin-left: 20px}
+
+
+
+
+body {
+	background-color: #EAEAEA;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#container {
+	width: 900px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	font-family: Calibri;
+	font-size: large;
+	line-height: 140%;
+}
+#container header {
+	height: 243px;
+}
+#headerimg {
+	display: block;
+	height: 163px;
+	width: 900px;
+	
+}
+
+footer #text {
+	height: 143px;
+	width: 400px;
+	float: left;
+	margin-top: 18px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 20px;
+	text-align: left;
+	color: #535353;
+	line-height: 150%;
+}
+footer #rightfooter {
+	text-align: center;
+	margin-top: 15px;
+	margin-right: 15px;
+}
+
+footer #footelogo {
+	float: right;
+	margin-top: 10px;
+}
+#top #homeImage {
+	float: left;
+	height: 320px;
+	width: 600px;
+	margin-top: 25px;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+#top #box {
+	height: 155px;
+	width: 260px;
+	float: right;
+}
+#content #top {
+	width: 900px;
+	margin-top: 30px;
+	line-height: 150%;
+	height: 400px;
+}
+#container header {
+	display: block;
+	height: 265px;
+	width: 900px;
+	margin: 0px;
+	padding: 0px;
+}
+#shortdesc  {
+	width: 900px;
+	
+}
+#top #homeImage  {
+	border: 7px solid #FFF;
+	border-radius: 7px;
+}
+.clearfloat {
+	clear: both;
+}
+#wrapper #footercontent {
+	height: 200px;
+	width: 100%;
+	background-image: url(../img/footer_bg.png);
+	background-repeat: repeat-x;
+	margin-top: 15px;
+	display: block;
+	text-decoration: none;
+}
